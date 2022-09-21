@@ -14,7 +14,7 @@ In this project when a user run this project the browser show a dialog box(usern
 ## Installation
 
 - cd Assignment5_Flask
-- pip install requirements.txt
+- pip install -r requirements.txt
 - run: python/python3 main.js
 
 ## Github Deployment Command
